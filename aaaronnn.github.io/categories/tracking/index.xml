@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tracking on Aaron Verstappen</title>
+    <link>https://averstappen.nl/categories/tracking/</link>
+    <description>Recent content in Tracking on Aaron Verstappen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://averstappen.nl/categories/tracking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google Analytics vanuit de Tag Manager</title>
+      <link>https://averstappen.nl/article/google/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://averstappen.nl/article/google/</guid>
+      <description>De meest ideale Google Analytics implementatie is vanuit de Google Tag Manager, maar hoe pak je dit aan?
+De eerste stap is natuurlijk om de Google Tag Manager zelf aan je website toe te voegen, hiervoor moeten 2 stukjes code worden toegevoegd aan de broncode van je website. Gelukkig hoeft dit tegenwoordig helemaal niet moeilijk zijn. Heb je een webbouwer die je website onderhoud? Dan kun je vragen of deze je hiermee wil helpen.</description>
+    </item>
+    
+  </channel>
+</rss>

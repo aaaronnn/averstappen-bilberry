@@ -1,0 +1,6 @@
+[submodule "aaaronnn.github.io"]
+	path = aaaronnn.github.io
+	url = https://github.com/aaaronnn/aaaronnn.github.io.git
+[submodule "averstappen-bilberry"]
+	path = averstappen-bilberry
+	url = https://github.com/aaaronnn/averstappen-bilberry.git
